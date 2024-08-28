@@ -1,6 +1,6 @@
 # Petshop
 ## Descrição
-Este projeto é um sistema de Petshop desenvolvido em Java utilizando o framework Spring Boot. O objetivo do sistema é fornecer funcionalidades para gerenciamento de um petshop, como cadastro de clientes, agendamento de consultas e registro de animais.
+Este projeto é um sistema de Petshop desenvolvido em Java utilizando Spring Boot. O objetivo do sistema é fornecer funcionalidades para gerenciamento de um petshop, como cadastro de clientes, agendamento de consultas e registro de animais.
 
 ## Dependências
 Para executar o projeto, é necessário ter as seguintes dependências instaladas:
